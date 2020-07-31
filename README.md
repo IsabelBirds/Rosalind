@@ -1,2 +1,4 @@
 # Rosalind
- Wokring on Rosalind tasks to improve code.
+ Working on Rosalind tasks to improve code.
+
+http://rosalind.info/users/IsabelB/
